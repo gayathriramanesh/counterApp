@@ -5,5 +5,5 @@ A beginner counter app project built using RTK
 - cd react-redux-counter
 - cd starter
 - npm install
-- npm start
+- npm run dev
 
